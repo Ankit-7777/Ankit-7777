@@ -3,7 +3,7 @@
   <img src="https://github.com/Ankit-7777/Ankit-7777/blob/main/GitHubprofile-ezgif.com-gif-to-webp-converter.gif" alt="banner" width="100%">
 </div>
 
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">Hi 👋, I'm Ankit Kumar</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">Hi 👋, I'm Ankit Kumar</h1> 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #333;">A Passionate Software Engineer from India</h3>
 
 <!-- Social and Profile Stats -->
