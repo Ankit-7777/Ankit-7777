@@ -102,8 +102,32 @@ I am continuously exploring:
 
 <hr style="border: 1px solid #ddd;">
 
-## 📈 Github Stats  
-[![Ankit Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankit-7777&count_private=true&show_icons=true&theme=radical)](https://github.com/Ankit-7777)
-  
-[![Ankit Kumar's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-7777&layout=compact&theme=radical)](https://github.com/Ankit-7777)
 
+## 📈 Github Stats  
+
+<p align="center">
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-7777&count_private=true&show_icons=true&theme=radical" alt="Ankit Kumar's GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-7777&layout=compact&theme=radical" alt="Ankit Kumar's Top Languages" width="45%"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankit-7777&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="90%" style="padding: 10px; box-sizing: border-box;"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://wa.me/9772926610" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/ankitpython" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/mr._ankitprajapti_6610/profilecard/?igsh=MTBpMHh0MWRnc2Vy" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
+  <a href="mailto:ankitralawata20218@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"></a>
+</p>
+
+---
+
+<div align="center">
+  <strong>Made with ❤️ by Ankit Prajapati </strong>
+</div>
