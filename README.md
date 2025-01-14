@@ -68,8 +68,7 @@ I am continuously exploring:
 <hr style="border: 1px solid #ddd;">
 
 ## 📄 My Resume  
-**[View My Full Resume](https://docs.google.com/document/d/1DUWdmANcv0PWNBSrejywBeyU2HQ8vA9DYSMt9U3pvKI/edit?tab=t.0)**  
-
+**[View My Full Resume](https://1drv.ms/w/c/06726214efceb496/EfzVVsKlLnFKixFBWc4cOR4BTUFY5bhK4zadDY_-XbUSWA?e=Svjkhr)**
 <hr style="border: 1px solid #ddd;">
 
 ## 📫 How to Reach Me  
